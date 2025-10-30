@@ -137,7 +137,7 @@ By completing this project, students learn how to:
 ---
 
 ## 👨‍💻 Author & Credits
-Developed by: *[Your Name]*  
+Developed by: *Aditya Sinha*  
 Course: **Artificial Intelligence – Semester Project (Python)**  
 Version: **VitalsFirst Console Edition (v1.0)**  
 Python Version: **3.11.9**
